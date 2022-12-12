@@ -10,6 +10,7 @@ public class Circle {
 
         System.out.println("Area of the circle is "+area);
         System.out.println("Perimeter of the circle is "+perimeter);
-
+        
+System.out.println();
     }
 }
